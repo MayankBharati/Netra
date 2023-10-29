@@ -1,7 +1,5 @@
 # NETRA !!
 
-Project for WIZ-A-THON hackathon at Parul University on 5th & 6th October, 2019. 
-
 Our this open source project helps blind people to recognize what is in front of them using raspberry pi and google cloud API's.
 
 It contains basic three things
@@ -27,6 +25,6 @@ run as:-
 
 
 
-Video link on drive : https://drive.google.com/open?id=1FuDUYq_7hEr4EdIEKwrkhbbM1k73THK9
+Video link on drive : https://drive.google.com/drive/u/0/folders/1Imube5MZ5fhIIjzbUytAxevlxAf-kjBV
 
 There is a lot of update to do still, more code to be uploaded !!
